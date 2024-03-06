@@ -29,9 +29,14 @@ python manage.py migrate
 
 python manage.py runserver
 
-
 ```
 
 ### Access the application
 
 Open your web browser and navigate to http://127.0.0.1:8000/upload/ to start using the application.
+
+You can access a syllabus from the directory sample_syllabus to test the platform out. 
+
+The demo video for this web app can be accessed through the link below 
+
+https://drive.google.com/file/d/11GtW6ZCraK1my9ipvysU_Px4zOeC97Vq/view?usp=sharing
